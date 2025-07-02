@@ -1,0 +1,27 @@
+[CARNEIRO] Carneiro
+[ID] chakra
+[GALO] Galo
+[INT_CONST] 100
+[;] ;
+[TIGRE] Tigre
+[STRING] "Chakra atual:"
+[;] ;
+[TIGRE] Tigre
+[ID] chakra
+[;] ;
+[RATO] Rato
+[ID] chakra
+[GT] >
+[INT_CONST] 50
+[{] {
+[TIGRE] Tigre
+[STRING] "Pode usar jutsu"
+[;] ;
+[}] }
+[DRAGAO] Dragao
+[{] {
+[TIGRE] Tigre
+[STRING] "Chakra insuficiente"
+[;] ;
+[}] }
+[;] ;
